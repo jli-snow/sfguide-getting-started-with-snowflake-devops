@@ -1,0 +1,7 @@
+[connections.default]
+warehouse = "DEMO_WH"
+role = "ACCOUNTADMIN"
+database = "DEMO_DB"
+schema = "PUBLIC"
+account = "SFPSCOGS-JIALI_GCP_DEMO"
+user = "DEMO_USER"
